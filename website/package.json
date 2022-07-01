@@ -79,7 +79,7 @@
   },
   "devDependencies": {
     "@tsconfig/docusaurus": "^1.0.4",
-    "@types/jest": "^27.4.1",
+    "@types/jest": "^28.1.4",
     "cross-env": "^7.0.3"
   }
 }
