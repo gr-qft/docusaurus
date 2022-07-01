@@ -51,7 +51,7 @@
     "@popperjs/core": "^2.11.2",
     "clsx": "^1.1.1",
     "color": "^4.2.1",
-    "esbuild-loader": "2.18.0",
+    "esbuild-loader": "2.19.0",
     "fs-extra": "^10.0.0",
     "netlify-plugin-cache": "^1.0.3",
     "raw-loader": "^4.0.2",
